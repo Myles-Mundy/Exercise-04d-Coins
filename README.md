@@ -4,7 +4,7 @@ March 16 2025
 Description
 
 ## Implementation
-Which features you included for points
+Added multiple, large levels, Created my own sprites, and added music, and a final non level screen
 
 ## References
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
